@@ -10,8 +10,7 @@ import FlexBetween from './FlexBetween';
 import { useDispatch } from 'react-redux';
 import { setMode } from 'state';
 import profileImage from "assests/profile.jpeg";
-import { useTheme } from '@emotion/react';
-import { AppBar, IconButton, InputBase, Toolbar } from '@mui/material';
+import { AppBar, IconButton, InputBase, Toolbar, useTheme } from '@mui/material';
 
 
 

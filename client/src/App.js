@@ -1,6 +1,6 @@
 import { Css } from '@mui/icons-material';
 import { CssBaseline, ThemeProvider } from '@mui/material';
-import { createTheme } from '@mui/material';
+import { createTheme } from '@mui/material/styles';
 import { useMemo } from 'react';
 import { useSelector } from 'react-redux';
 import { BrowserRouter, Navigate , Routes, Route} from 'react-router-dom';
